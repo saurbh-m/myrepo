@@ -9,3 +9,5 @@ SSH keys set up !
 This is a line from RStudio
 
 Another line from RStudio
+
+Line added from GitHub
