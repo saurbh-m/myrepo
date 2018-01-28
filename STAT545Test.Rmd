@@ -2,11 +2,13 @@
 title: "Something fascinating"
 author: "Saurabh Mishra"
 date: "`r format(Sys.Date())`"
-output: github_document
+output: html_document
 ---
 
-```{r}
-print('Hello World!')
+Plotting a graph of 1, 3
+
+```{r setup, message = FALSE, cache = FALSE, warning = FALSE}
+library(dplyr)
+print("Hello World!")
 plot(1, 3)
 ```
-
