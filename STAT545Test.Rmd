@@ -2,7 +2,7 @@
 title: "Something fascinating"
 author: "Saurabh Mishra"
 date: "`r format(Sys.Date())`"
-output: html_document
+output: github_document
 ---
 
 Plotting a graph of 1, 3
